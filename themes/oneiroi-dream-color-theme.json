@@ -169,13 +169,15 @@
 		"debugConsole.sourceForeground": "#464AAA", //infs
 		//GIT
 		"gitDecoration.modifiedResourceForeground": "#FFDFAA", //yel
-		"gitDecoration.addedResourceForeground": "#CAFFAA", //gre
-		"gitDecoration.renamedResourceForeground": "#CAFFAA", //gre
+		"gitDecoration.stageModifiedResourceForeground": "#B19B76", //yels
+		"gitDecoration.addedResourceForeground": "#8CB176", //gres
+		"gitDecoration.renamedResourceForeground": "#8CB176", //gre
 		"gitDecoration.deletedResourceForeground": "#FFAACA", //red
+		"gitDecoration.stageDeletedResourceForeground": "#B1768C", //reds
 		"gitDecoration.conflictingResourceForeground": "#FFAACA", //red
 		"gitDecoration.ignoredResourceForeground": "#53575B", //com
-		"gitDecoration.untrackedResourceForeground": "#8CB176", //gres
-		"gitDecoration.submoduleResourceForeground": "#AACAFF", //blu
+		"gitDecoration.untrackedResourceForeground": "#CAFFAA", //gre
+		"gitDecoration.submoduleResourceForeground": "#768CB1", //blus
 		//STATUSBAR
 		"statusBar.border": "#1F1D21", //bord
 		"statusBar.noFolderBorder": "#1F1D21", //bord
