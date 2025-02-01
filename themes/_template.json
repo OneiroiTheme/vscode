@@ -307,8 +307,10 @@
 				"keyword.control.elif",
 				"keyword.control.switch",
 				"keyword.control.case",
+				"keyword.control.esac",
 				"keyword.control.do",
 				"keyword.control.while",
+				"keyword.control.in",
 				"keyword.control.for",
 				"keyword.control.break",
 				"keyword.control.continue"
