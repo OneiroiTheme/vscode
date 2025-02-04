@@ -1,6 +1,6 @@
 {
-	"name": "oneiroi dream",
-	"type": "dream",
+	"name": "{{theme}} {{plt}}",
+	"type": "{{type}}",
 	"colors": {
 		//VSCODE
 		"focusBorder": "#1A1C23",
@@ -21,7 +21,7 @@
 		"badge.background": "{{prims}}", //prims
 		"badge.foreground": "{{bg2}}", //bg2
 		//TITLE
-		"titleBar.border": "{{bord}}", //bord
+		"titleBar.border": "{{bg3}}", //bord
 		"titleBar.inactiveBackground": "{{bg2}}", //bg2
 		"titleBar.inactiveForeground": "{{com}}", //com
 		"titleBar.activeBackground": "{{bg2}}", //bg2
@@ -67,26 +67,26 @@
 		"editorBracketHighlight.foreground6": "{{quat}}", //quat
 		//widget
 		"editorWidget.background": "{{bg2}}", //bg2
-		"editorWidget.border": "{{bord}}", //bord
+		"editorWidget.border": "{{bg3}}", //bord
 		"editorSuggestWidget.background": "{{bg2}}", //bg2
-		"editorSuggestWidget.border": "{{bord}}", //bord
+		"editorSuggestWidget.border": "{{bg3}}", //bord
 		"editorSuggestWidget.foreground": "{{fgs}}", //fgs
 		"editorSuggestWidget.highlightForeground": "{{fg}}", //fg
 		"editorHoverWidget.background": "{{bg2}}", //bg2
-		"editorHoverWidget.border": "{{bord}}", //bord
+		"editorHoverWidget.border": "{{bg3}}", //bord
 		//group
 		"editorGroup.border": "{{prim}}", //prim
 		"editorGroup.dropBackground": "{{secos}}1c", //secos+1c
 		"editorGroupHeader.tabsBackground": "{{bg2}}", //bg2
-		"tab.border": "{{bord}}", //bord
+		"tab.border": "{{bg3}}", //bord
 		"tab.activeBorderTop": "{{prim}}", //prim
 		"tab.activeBackground": "{{bg}}", //bg
 		"tab.activeForeground": "{{seco}}", //seco
 		"tab.inactiveBackground": "{{bg2}}", //bg2
 		"tab.inactiveForeground": "{{coms}}", //coms
-		"scrollbarSlider.background": "{{bord}}", //bord
-		"scrollbarSlider.hoverBackground": "{{bord}}", //bord
-		"scrollbarSlider.activeBackground": "{{bord}}5F", //bord+5F
+		"scrollbarSlider.background": "{{bg3}}", //bord
+		"scrollbarSlider.hoverBackground": "{{bg3}}", //bord
+		"scrollbarSlider.activeBackground": "{{bg3}}5F", //bord+5F
 		"tree.indentGuidesStroke": "{{prim}}", //prim
 		//LIST
 		"list.activeSelectionBackground": "{{prims}}", //prims
@@ -105,7 +105,7 @@
 		"list.highlightForeground": "{{prim}}", //prim
 		//ACTIVITYBAR
 		"activityBar.background": "{{bg}}", //bg
-		"activityBar.border": "{{bord}}", //bord
+		"activityBar.border": "{{bg3}}", //bord
 		"activityBar.foreground": "{{seco}}", //seco
 		"activityBar.activeBorder": "{{prim}}", //prim
 		"activityBar.inactiveForeground": "{{coms}}", //coms
@@ -114,7 +114,7 @@
 		//SIDEBAR
 		"sideBar.background": "{{bg2}}", //bg2
 		"sideBar.foreground": "{{fgs}}", //fgs
-		"sideBar.border": "{{bord}}", //bord
+		"sideBar.border": "{{bg3}}", //bord
 		"sideBar.dropBackground": "{{secos}}1c", //secos+1c
 		"sideBarSectionHeader.foreground": "{{prims}}", //prims
 		"sideBarSectionHeader.background": "{{bg}}", //bg
@@ -135,12 +135,12 @@
 		"pickerGroup.foreground": "{{err}}", //err
 		// PANELTITLE
 		"panel.background": "{{bg}}", //bg
-		"panel.border": "{{bord}}", //bord
+		"panel.border": "{{bg3}}", //bord
 		"panelTitle.activeForeground": "{{fg}}", //fg
 		"panelTitle.inactiveForeground": "{{coms}}", //coms
 		"panelTitle.activeBorder": "{{prim}}", //prim
 		//TERMINAL
-		"terminal.border": "{{bord}}", //bord
+		"terminal.border": "{{bg3}}", //bord
 		"terminal.background": "{{bg}}", //bg
 		"terminal.foreground": "{{fg}}", //fg
 		"terminal.selectionBackground": "{{sel}}", //sel
@@ -179,14 +179,14 @@
 		"gitDecoration.untrackedResourceForeground": "{{gre}}", //gre
 		"gitDecoration.submoduleResourceForeground": "{{blus}}", //blus
 		//STATUSBAR
-		"statusBar.border": "{{bord}}", //bord
-		"statusBar.noFolderBorder": "{{bord}}", //bord
+		"statusBar.border": "{{bg3}}", //bord
+		"statusBar.noFolderBorder": "{{bg3}}", //bord
 		"statusBar.noFolderBackground": "{{bg}}", //bg
 		"statusBar.noFolderForeground": "{{fgs}}", //fgs
 		"statusBar.background": "{{prims}}", //prims
 		"statusBar.foreground": "{{bg}}", //bg
 		"statusBar.debuggingBackground": "{{seco}}", //seco
-		"statusBar.debuggingBorder": "{{bord}}", //bord
+		"statusBar.debuggingBorder": "{{bg3}}", //bord
 		"statusBar.debuggingForeground": "{{bg}}", //bg
 		"statusBarItem.activeBackground": "{{tert}}", //tert
 		"statusBarItem.remoteForeground": "#000000",
