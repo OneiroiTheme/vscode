@@ -1,6 +1,6 @@
 {
 	"name": "oneiroi dream",
-	"type": "dream",
+	"type": "dark",
 	"colors": {
 		//VSCODE
 		"focusBorder": "#1A1C23",
@@ -59,7 +59,7 @@
 		"editorCursor.foreground": "#FFAACA", //prim
 		"editorIndentGuide.background1": "#53575B", //com
 		"editorIndentGuide.activeBackground1": "#FFAACA", //prim
-		"editorBracketHighlight.foreground1": "#AACAFA", //quin
+		"editorBracketHighlight.foreground1": "#AACAFF", //quin
 		"editorBracketHighlight.foreground2": "#FFFDEB", //fg
 		"editorBracketHighlight.foreground3": "#FFAACA", //prim
 		"editorBracketHighlight.foreground4": "#FFDFAA", //seco
@@ -343,7 +343,7 @@
 				"punctuation.terminator.statement"
 			],
 			"settings": {
-				"foreground": "#AACAFA"
+				"foreground": "#AACAFF"
 			}
 		},
 		{ //paramrter
