@@ -1,0 +1,4 @@
+{
+    "input": "/.template/template.json",
+    "output": "/themes/{{theme}}-{{plt}}-color-theme.json"
+}
