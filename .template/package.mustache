@@ -1,0 +1,42 @@
+{
+  "name": "{{plt.theme}}-theme-vscode",
+  "displayName": "{{plt.theme_cap}} Theme",
+  "description": "{{port.blurb}}",
+  "version": "{{port.port.version}}",
+  "publisher": "{{plt.theme_cap}}Theme",
+  "author": {
+    "name": "{{port.author.name}}",
+    "email": "{{port.author.email}}"
+  },
+  "license": "{{port.license}}",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/oneiroi-logo.png",
+  "repository": {
+    "type": "{{port.repository.type}}",
+    "url": "{{port.repository.url}}"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "oneiroi melatonin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oneiroi-melatonin-color-theme.json"
+      },
+      {
+        "label": "oneiroi dream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oneiroi-dream-color-theme.json"
+      },
+      {
+        "label": "oneiroi caffeine",
+        "uiTheme": "vs",
+        "path": "./themes/oneiroi-caffeine-color-theme.json"
+      }
+    ]
+  }
+}
