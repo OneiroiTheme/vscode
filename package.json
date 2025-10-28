@@ -1,12 +1,12 @@
 {
-  "name": "oneiroi",
-  "displayName": "Oneiroi",
-  "description": "A fantastic theme for vscode.",
+  "name": "oneiroi-theme-vscode",
+  "displayName": "Oneiroi Theme",
+  "description": "A fancy, pink-accented theme for vscode.",
   "version": "0.0.4",
   "publisher": "OneiroiTheme",
   "author": {
-    "name": "AEva",
-    "email": "crystar.z@proton.me"
+    "name": "Crystar Z",
+    "email": "crystar.z@outlook.com"
   },
   "license": "MIT",
   "engines": {
@@ -15,7 +15,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "doc/logo.png",
+  "icon": "assets/oneiroi-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/OneiroiTheme/vscode.git"
@@ -23,14 +23,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "oneiroi melatonin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oneiroi-melatonin-color-theme.json"
+      },
+      {
         "label": "oneiroi dream",
         "uiTheme": "vs-dark",
         "path": "./themes/oneiroi-dream-color-theme.json"
       },
       {
-        "label": "oneiroi melatonin",
-        "uiTheme": "vs-dark",
-        "path": "./themes/oneiroi-melatonin-color-theme.json"
+        "label": "oneiroi caffeine",
+        "uiTheme": "vs",
+        "path": "./themes/oneiroi-caffeine-color-theme.json"
       }
     ]
   }
