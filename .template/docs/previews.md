@@ -10,9 +10,9 @@
 </details>
 <details>
 <summary>😴 dream</summary>
-<img src="https://raw.githubusercontent.com/{{repository.publisher}}/{{repository.repo}}/main/assets/oneiroi-dream.png" alt="screenshot_melatonin" />
+<img src="https://raw.githubusercontent.com/{{repository.publisher}}/{{repository.repo}}/main/assets/oneiroi-dream.png" alt="screenshot_dream" />
 </details>
 <details>
 <summary>☕ caffeine</summary>
-<img src="https://raw.githubusercontent.com/{{repository.publisher}}/{{repository.repo}}/main/assets/oneiroi-caffeine.png" alt="screenshot_melatonin" />
+<img src="https://raw.githubusercontent.com/{{repository.publisher}}/{{repository.repo}}/main/assets/oneiroi-caffeine.png" alt="screenshot_caffeine" />
 </details>
